@@ -1,4 +1,7 @@
+
 # STM32 ST7789 Display Library
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Простая и эффективная библиотека для работы с дисплеями ST7789 на микроконтроллерах STM32.
 
