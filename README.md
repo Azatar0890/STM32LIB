@@ -1,6 +1,8 @@
 
 # STM32 ST7789 Display Library
 
+Compact library of the ST7789 display, also known as the GMT14 7SPI 1.47" TFT SPI (8 Pin), with a short and detailed testing example, for the STM32F103C8T6 microcontroller.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Простая и эффективная библиотека для работы с дисплеями ST7789 на микроконтроллерах STM32.
